@@ -1,0 +1,26 @@
+.image {
+    position: absolute;
+    padding-left: 1050px;
+
+}
+
+button:hover {
+    background-color: aqua;
+    font-size: large;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.image2 {
+    padding-left: 380px;
+    width: 1360px;
+    height: 550px;
+}
+
+
+.tags {
+    display: flex;
+    margin-left: 380px;
+    align-items: center;
+}
+
